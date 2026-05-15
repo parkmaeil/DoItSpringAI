@@ -1,6 +1,6 @@
 ## 이지스퍼블리싱 : 스프링AI 완전정복
 
-[인프런] 박매일 강사 Spring AI 및 Agent 강의 참조
+# [인프런] 박매일 강사 Spring AI 및 Agent 강의 참조
 
 1. 나도! 스프링으로 인공지능을 할 수 있다(인프1탄)
 https://inf.run/NSSzf
