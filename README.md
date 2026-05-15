@@ -17,3 +17,6 @@ https://inf.run/Sr2Qf
 
 5. 카카오 PlayMCP와 Spring AI가 만나는 실전 에이전트 개발
 https://inf.run/ZM5dj
+
+QR code
+<img width="357" height="357" alt="287mJ" src="https://github.com/user-attachments/assets/b7bc95a5-f0a1-4077-8a87-8cb63e03271c" />
