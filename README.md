@@ -30,6 +30,4 @@
 
 스마트폰으로 아래 QR 코드를 스캔하시면 더 많은 전체 강의를 확인하실 수 있습니다.
 
-![인프런 전체강의 QR 코드] <img width="157" height="157" alt="287mJ" src="https://github.com/user-attachments/assets/98e09d28-12c6-43ae-afe2-878277070176" />
-
-> 💡 **Tip:** 위 이미지 마크다운의 `QR_코드_이미지_경로를_여기에_입력하세요.png` 부분을 실제 깃허브 레포지토리에 업로드한 QR 코드 이미지 파일의 경로로 수정하여 사용하세요.
+![인프런 전체강의 QR 코드](<img width="157" height="157" alt="287mJ" src="https://github.com/user-attachments/assets/98e09d28-12c6-43ae-afe2-878277070176" />)
