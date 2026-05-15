@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "F:/DoItSpringAI/project-01/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "F:/DoItSpringAI/project-01/./frontend/generated/jar-resources",
+  "staticOutput": "F:/DoItSpringAI/project-01/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "F:\\DoItSpringAI\\project-01\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "F:\\DoItSpringAI\\project-01\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "F:/DoItSpringAI/project-01/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "F:/DoItSpringAI/project-01/target/dev-bundle/config",
+  "jarResourcesFolder": "F:/DoItSpringAI/project-01/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "F:\\DoItSpringAI\\project-01\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
